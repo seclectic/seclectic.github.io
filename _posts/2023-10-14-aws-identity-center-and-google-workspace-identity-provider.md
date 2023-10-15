@@ -1,11 +1,11 @@
-# Use Google Workspace As An Identity Provider With AWS
+# *Use Google Workspace As An Identity Provider With AWS*
 
-## IAM VS IAM Identity Center
+## *1. IAM VS IAM Identity Center*
 
-## Configure IAM Identity Center
+## *2. Configure IAM Identity Center*
 
-## Configure Google Workspace
+## *3. Configure Google Workspace*
 
-### SCIM Limitation
+### *3.1 SCIM Limitation*
 
-## ABAC
+## *4. ABAC*
