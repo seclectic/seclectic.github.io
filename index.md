@@ -4,7 +4,12 @@ title: Home
 ---
 <div style="text-align: center;">
     <img src="./img/farid.jpeg" width="250" height="250" style="border-radius: 50%;">
+    <a href=mailto:farid@seclectic.com>
 </div><br>
+
+<div style="text-align: center;">
+    
+</div>
 
 Farid Driouch is a dedicated information security professional with over five years of experience in both the public and private sectors. He has held various roles, including Security Engineer, Security Manager, Security Instructor, Penetration Tester, and Incident Responder.
 
