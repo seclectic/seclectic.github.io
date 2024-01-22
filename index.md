@@ -2,14 +2,30 @@
 layout: default
 title: Home
 ---
-<div style="text-align: center;">
-    <img src="./img/farid.jpeg" width="250" height="250" style="border-radius: 50%;">
-    <a href=mailto:farid@seclectic.com>
-</div><br>
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+</head>
+<body>
 
 <div style="text-align: center;">
-    
+    <img src="./img/farid.jpeg" width="250" height="250" style="border-radius: 50%;">
 </div>
+
+<div>
+  <a href="mailto:farid@seclectic.com">farid@seclectic.com</a>
+</div>
+
+  <div>
+    <a href="your_twitter_profile_url" target="https://twitter.com/s3clectic" rel="noopener noreferrer">
+      <i class="fab fa-twitter"></i>
+    </a>
+    <a href="your_linkedin_profile_url" target="https://www.linkedin.com/in/farid-driouch/" rel="noopener noreferrer">
+      <i class="fab fa-linkedin-in"></i>
+    </a>
+  </div>
+  <br>
+</body>
+
 
 Farid Driouch is a dedicated information security professional with over five years of experience in both the public and private sectors. He has held various roles, including Security Engineer, Security Manager, Security Instructor, Penetration Tester, and Incident Responder.
 
