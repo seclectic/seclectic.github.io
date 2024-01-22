@@ -2,10 +2,8 @@
 layout: default
 title: Home
 ---
-# About Me
-
 <div style="text-align: center;">
-    <img src="./img/farid.jpeg" width="350" height="350" style="border-radius: 50%;">
+    <img src="./img/farid.jpeg" width="250" height="250" style="border-radius: 50%;">
 </div>
 
 
@@ -17,4 +15,8 @@ Farid holds several recognized certifications, including Offensive Security Cert
 
 Currently based in Dallas, Texas.
 
-![OSCP](./img/oscp.png) ![AWS Security Specialty](./img/aws.png) ![CIPP](./img/cipp.png)
+<div style="text-align: center;">
+    <img src="./img/oscp.png" alt="OSCP" width="200" height="200" style="margin: 10px;">
+    <img src="./img/aws.png" alt="AWS Security Specialty" width="200" height="200" style="margin: 10px;">
+    <img src="./img/cipp.png" alt="CIPP" width="200" height="200" style="margin: 10px;">
+</div>
