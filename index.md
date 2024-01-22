@@ -4,7 +4,10 @@ title: Home
 ---
 # About Me
 
-![Farid](./img/farid.jpeg)
+<div style="text-align: center;">
+    <img src="./img/farid.jpeg" width="350" height="350" style="border-radius: 50%;">
+</div>
+
 
 Farid is a dedicated information security professional with over five years of experience in both the public and private sectors. He has held various roles, including Security Engineer, Security Manager, Security Instructor, Penetration Tester, and Incident Responder.
 
