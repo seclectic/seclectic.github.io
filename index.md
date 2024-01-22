@@ -10,7 +10,7 @@ title: Home
 <div style="text-align: center;">
     <img src="./img/farid.jpeg" width="250" height="250" style="border-radius: 50%;">
 </div>
-
+<br>
 <div style="text-align: center;">
   <a href="mailto:farid@seclectic.com">farid@seclectic.com</a>
 </div>
