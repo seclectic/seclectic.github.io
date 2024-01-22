@@ -11,15 +11,15 @@ title: Home
     <img src="./img/farid.jpeg" width="250" height="250" style="border-radius: 50%;">
 </div>
 
-<div>
+<div style="text-align: center;">
   <a href="mailto:farid@seclectic.com">farid@seclectic.com</a>
 </div>
 
-  <div>
-    <a href="your_twitter_profile_url" target="https://twitter.com/s3clectic" rel="noopener noreferrer">
+  <div style="text-align: center;">
+    <a href="https://twitter.com/s3clectic" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-twitter"></i>
     </a>
-    <a href="your_linkedin_profile_url" target="https://www.linkedin.com/in/farid-driouch/" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/farid-driouch/" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-linkedin-in"></i>
     </a>
   </div>
