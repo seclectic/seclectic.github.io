@@ -1,8 +1,6 @@
 <nav>
   <a href="/" class="site-title">seclectic</a>
-  <a href="/">Home</a>
-  <a href="/blog.html">Blog</a>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  {% endfor %}
 </nav>
-<footer>
-  <p>seclectic 2024</p>
-</footer>
