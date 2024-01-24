@@ -40,6 +40,3 @@ Currently based in Dallas, Texas.
     <img src="./img/aws.png" alt="AWS Security Specialty" width="200" height="200" style="margin: 10px;">
     <img src="./img/cipp.png" alt="CIPP" width="200" height="200" style="margin: 10px;">
 </div>
-<footer>
-  <p>seclectic 2024</p>
-</footer>
