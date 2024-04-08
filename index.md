@@ -31,7 +31,7 @@ Farid Driouch is a dedicated information security professional with over five ye
 
 He is experienced in helping organizations improve their security posture and achieve internationally recognized standards such as ISO27001 and SOC2.
 
-He holds several recognized certifications, including Offensive Security Certified Professional OSCP, AWS Security Specialty, and Certified Information Privacy Professional/Europe CIPP/E.
+He holds several recognized certifications, including Offensive Security Certified Professional OSCP, AWS Security Specialty, Certified Information Systems Security Professional (CISSP), and Certified Information Privacy Professional/Europe CIPP/E.
 
 Currently based in Dallas, Texas.
 
