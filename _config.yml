@@ -26,7 +26,6 @@ url: "https://seclectic.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: s3clectic
 github_username:  seclectic
 linkedin_username: farid-driouch
-google_analytics: G-8S4JHG6ZKV
 # Build settings
 theme: minima
 plugins:
