@@ -22,7 +22,7 @@ title: seclectic
 email: farid@seclectic.com
 author: © 2024 seclectic.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://seclectic.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: s3clectic
 github_username:  seclectic
 linkedin_username: farid-driouch
