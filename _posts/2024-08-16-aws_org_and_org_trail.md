@@ -5,7 +5,7 @@ date:   2024-08-16 20:30:01 -0500
 categories: cloud
 ---
 
-In this blog post, I explain how combining AWS Organizations with the Cloudtrail free tier helps you simplify your AWS audit logs infrastructure, enable automated enrollment of new AWS accounts and regions to Cloudtrail, implement a critical security control required by current security standards and more importantly, save money.
+In this blog post, I explain how combining AWS Organizations with the Cloudtrail free tier helps you simplify your AWS audit logs infrastructure, enable automated enrollment of new AWS accounts and regions to Cloudtrail, implement a critical security control required by current security standards. Oh, And more importantly, save money.
 
 Something your trusted advisor won't tell you, and an optimization often overlooked by Infrastructure engineers. 
 
